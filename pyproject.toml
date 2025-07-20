@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anthrotrace"
+version = "0.1.0"
+description = "Benchmarking and analytics suite for LLM prompts and responses."
+authors = [
+    { name = "Kishore Korathaluri" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "anthropic",
+    "streamlit",
+    "pandas",
+    "python-dateutil",
+    "prometheus_client",
+    "clickhouse-connect"
+] 

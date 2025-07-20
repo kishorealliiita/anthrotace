@@ -1,0 +1,60 @@
+Summarization:
+- Summarize the following news article in 5 bullet points.
+- Summarize this research paper abstract in plain English.
+- Give a brief summary of this customer support conversation.
+- Summarize this GitHub issue and proposed solution.
+- Summarize the following meeting notes in a concise paragraph.
+Code Generation:
+- Write a Python function for bubble sort.
+- Generate a SQL query to fetch users registered in the last 30 days.
+- Create a Bash script to monitor disk usage.
+- Write a JavaScript function to debounce a click event.
+- Generate a Terraform script to create an S3 bucket.
+Bug Fixing:
+- Fix the syntax error in this Python code.
+- Identify and fix the off-by-one error in this loop.
+- Resolve the null pointer exception in this Java code snippet.
+- Debug this SQL query that's returning incorrect results.
+- Fix the broken CSS that is not centering the div.
+Creative Writing:
+- Write a short story about a lost astronaut on Mars.
+- Compose a poem about the change of seasons.
+- Write a scene where a detective uncovers a hidden clue.
+- Create a dialogue between a robot and a human about friendship.
+- Write a fable that teaches the value of honesty.
+Translation:
+- Translate this paragraph into French.
+- Translate this sentence into Japanese.
+- Provide a professional translation of this email into Spanish.
+- Translate this English text into German.
+- Translate this customer review into Italian.
+Roleplay:
+- Act as a DevOps engineer explaining Infrastructure as Code.
+- Act as a customer support agent handling a refund request.
+- Roleplay as a cybersecurity expert explaining phishing attacks.
+- Act as a financial advisor giving investment tips.
+- Roleplay as a historian explaining the causes of World War I.
+Data Extraction:
+- Extract all dates mentioned in this text.
+- List all names of people in this paragraph.
+- Extract key financial figures from this earnings report.
+- Identify all product names from this customer review.
+- Extract action items from these meeting notes.
+Rewriting:
+- Rewrite this sentence in a more formal tone.
+- Rephrase this paragraph to be more concise.
+- Rewrite this email to sound more friendly.
+- Simplify this technical explanation for a general audience.
+- Rewrite this product description to be more engaging.
+Question Answering:
+- What is the capital of Finland?
+- Who wrote 'Pride and Prejudice'?
+- Explain the law of supply and demand.
+- What are the symptoms of influenza?
+- How does a blockchain work?
+Thought Prompt:
+- "Explain why the sky is blue like I\u2019m 5."
+- Why do leaves change color in the fall?
+- How do airplanes stay in the air?
+- Why do we need sleep?
+- Explain gravity in simple terms.

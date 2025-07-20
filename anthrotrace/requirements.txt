@@ -1,0 +1,8 @@
+anthropic>=0.25.0          # Official Anthropic SDK
+opentelemetry-api>=1.25.0  # OpenTelemetry API
+opentelemetry-sdk>=1.25.0  # OpenTelemetry SDK
+streamlit>=1.35.0          # (For Dashboard — Optional now)
+sqlite-utils>=3.36.0       # (For Storage Layer — Optional now)
+clickhouse-connect
+prometheus_client
+streamlit-extras
