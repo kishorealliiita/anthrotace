@@ -98,7 +98,7 @@ The file `anthrotrace/data/anthrotrace_common_prompts.yaml` contains a set of co
 - To add new data sources or exporters, follow the patterns in `core/` and `metrics/`.
 
 ## License
-See [LICENSE](../LICENSE).
+See [LICENSE](LICENSE).
 
 ---
 
