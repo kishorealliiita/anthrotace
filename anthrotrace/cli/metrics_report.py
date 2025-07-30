@@ -1,5 +1,5 @@
 import clickhouse_connect
-from repository.clickhouse_prompt_log_repository import ClickHousePromptLogRepository
+from anthrotrace.core.clickhouse_prompt_log_repository import ClickHousePromptLogRepository
 import argparse
 import json
 from datetime import datetime

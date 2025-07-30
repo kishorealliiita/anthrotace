@@ -27,7 +27,6 @@ anthrotrace/
 1. **Clone the repository**
 ```sh
 git clone https://github.com/kishorealliiita/anthrotace
-cd anthrotrace
 ```
 
 2. **Install dependencies**
@@ -62,11 +61,11 @@ This will run ClickHouse in the background and expose the default HTTP (8123) an
 ### Run Example Benchmarks
 - **ClickHouse**:
   ```sh
-  python anthrotrace/examples/benchmark_clickhouse_streamlit.py
+  PYTHONPATH=. python anthrotrace/examples/benchmark_clickhouse_streamlit.py
   ```
 - **SQLite**:
   ```sh
-  python anthrotrace/examples/benchmark_sqllite_streamlit.py
+  PYTHONPATH=. python anthrotrace/examples/benchmark_sqllite_streamlit.py
   ```
 
 ### Run the Streamlit Dashboard
@@ -133,8 +132,8 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 **Usage Examples:**
 ```sh
-python anthrotrace/cli/metrics_report.py --format table
-python anthrotrace/cli/metrics_report.py --format json --category "Creative Writing" --since 2024-06-01 --until 2024-06-30
+PYTHONPATH=. python anthrotrace/cli/metrics_report.py --format table
+PYTHONPATH=. python anthrotrace/cli/metrics_report.py --format json --category "Creative Writing" --since 2024-06-01 --until 2024-06-30
 ```
 
 --- 
